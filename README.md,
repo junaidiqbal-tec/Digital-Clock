@@ -1,0 +1,23 @@
+# Digital Clock
+
+A real-time digital clock built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Displays the current time
+- Updates every second
+- Clean and modern interface
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+
+Open `index.html` in your browser or use Live Server in VS Code.
+
+## Author
+
+Junaid Iqbal# Digital-Clock
